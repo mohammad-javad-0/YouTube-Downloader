@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/youtube-downloader.git
+git clone https://github.com/mohammad-javad-0/youtube-downloader.git
 cd youtube-downloader
 2. Install the required dependencies:
 
