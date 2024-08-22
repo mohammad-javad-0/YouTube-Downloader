@@ -9,16 +9,6 @@ This is a PyQt6-based desktop application that allows you to download YouTube vi
 - Graphical User Interface (GUI): Built using PyQt6, offering a clean and user-friendly interface.
 - Progress Display: The application displays the progress of the downloads within the interface.
 
-## Requirements
-
-The project requires the following Python packages:
-
-- PyQt6
-- pytubefix (or an equivalent YouTube download library)
-
-These packages are listed in the requirements.txt file. To install them, use:
-
-pip install -r requirements.txt
 ## Usage
 
 1. Clone the repository:
@@ -27,7 +17,6 @@ git clone https://github.com/mohammad-javad-0/youtube-downloader.git
 cd youtube-downloader
 2. Install the required dependencies:
 
-pip install -r requirements.txt
 3. Run the application:
 
 python main.py
